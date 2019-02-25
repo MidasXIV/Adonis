@@ -1,7 +1,4 @@
-# Adonis
-<p align="center">
-  <h1>Adonis</h1>
-</p>
+<h1 align="center">ADONIS</h1>
 
 * A Desktop application that works in the background.
 * initiate process using the commandline.
