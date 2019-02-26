@@ -14,6 +14,7 @@
 - [ ] how to access the webcam and run in background.
 - [ ] use tensorflow on this data to recognise gestures.
 - [ ] Research about : https://github.com/amitmerchant1990
+- [ ] Since the application will run in the background we should have a task bar icon indicating the app is active. [Menubar](https://github.com/maxogden/menubar)
 
 ## How To Use
 
