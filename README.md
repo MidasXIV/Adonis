@@ -15,7 +15,8 @@
 - [ ] use tensorflow on this data to recognise gestures.
 - [ ] Research about : https://github.com/amitmerchant1990
 - [ ] Since the application will run in the background we should have a task bar icon indicating the app is active. [Menubar](https://github.com/maxogden/menubar)
-
+- [ ] prompting an overlay text on windows might not be possible so we could have an app interface to log outputs on the menubar.
+   1. [ ] or we can make windows notifications. [here](https://github.com/mikaelbr/node-notifier)
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
