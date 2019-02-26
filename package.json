@@ -20,7 +20,7 @@
     "author": "MidasXIV",
     "license": "ISC",
     "bin": {
-        "adonis start": "./index.js"
+        "adonis": "./index.js"
     },
     "bugs": {
         "url": "https://github.com/MidasXIV/Adonis/issues"
