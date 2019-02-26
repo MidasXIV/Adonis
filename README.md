@@ -7,10 +7,31 @@
 * Will require learning electron !.
 
 ## Todo
-- [ ] look into commandline tools using node js. [tutorial](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
-   1. [ ] using [commander](https://www.npmjs.com/package/commander) to parse commmandline arguements. it also creates --help for the tool.
+- [x] look into commandline tools using node js. [tutorial](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
+   1. [x] using [commander](https://www.npmjs.com/package/commander) to parse commmandline arguements. it also creates --help for the tool.
    2. [ ] *chalk* to colorise the output.
    3. [ ] use *progress* to added progress bar for uploading stuff.
 - [ ] how to access the webcam and run in background.
 - [ ] use tensorflow on this data to recognise gestures.
 - [ ] Research about : https://github.com/amitmerchant1990
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git https://github.com/MidasXIV/Adonis.git
+
+# Go into the repository
+$ cd Adonis
+
+# Install dependencies
+$ npm install -g
+
+# Run the app
+$ adonis
+
+# Help
+$ adonis -h
+```
