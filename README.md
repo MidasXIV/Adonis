@@ -6,8 +6,11 @@
 * Shows in the notification tray.
 * Will require learning electron !.
 
-## STEPs
-- [ ] look into commandline tools using node js.
+## Todo
+- [ ] look into commandline tools using node js. [tutorial](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
+   1. [ ] using [commander](https://www.npmjs.com/package/commander) to parse commmandline arguements. it also creates --help for the tool.
+   2. [ ] *chalk* to colorise the output.
+   3. [ ] use *progress* to added progress bar for uploading stuff.
 - [ ] how to access the webcam and run in background.
 - [ ] use tensorflow on this data to recognise gestures.
 - [ ] Research about : https://github.com/amitmerchant1990
