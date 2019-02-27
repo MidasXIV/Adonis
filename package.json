@@ -27,6 +27,7 @@
     },
     "homepage": "https://github.com/MidasXIV/Adonis#readme",
     "dependencies": {
-        "commander": "^2.19.0"
+        "commander": "^2.19.0",
+        "node-notifier": "^5.4.0"
     }
 }
