@@ -1,5 +1,12 @@
 #!/usr/bin/env node
  //npm install --save node-notifier
+//npm install menubar --save
+//npm install electron -g
+
+var menubar = require('menubar')
+
+
+
 
 console.log('Testing Adonis');
 var program = require('commander');
@@ -37,6 +44,11 @@ if (program.start) {
         // Triggers if `wait: true` and notification closes
         console.log("Notification dissmissed");
     });
+    var mb = menubar({alwaysOnTop:true});
+
+mb.on('ready', function ready () {
+  console.log('app is ready')
+})
 }
 if (program.stop) console.log("program is stoped");
 

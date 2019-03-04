@@ -43,3 +43,4 @@ $ adonis
 # Help
 $ adonis -h
 ```
+electron . -i
