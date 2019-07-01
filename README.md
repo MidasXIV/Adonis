@@ -1,5 +1,7 @@
 <h1 align="center">ADONIS</h1>
 
+[![HitCount](http://hits.dwyl.io/midasxiv/Adonis.svg)](http://hits.dwyl.io/midasxiv/Adonis)
+
 * A Desktop application that works in the background.
 * initiate process using the commandline.
 * The application identifies hand gestures and prompts details on the screen or controls the mouse.
